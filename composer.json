@@ -1,4 +1,10 @@
 {
+    "autoload": {
+        "classmap": [
+            "nivellUno/"
+        ]
+    },
+
     "require-dev": {
         "phpunit/phpunit": "^10.5"
     }
